@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/tarunbanyal24ug-max'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
