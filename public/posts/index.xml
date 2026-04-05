@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 14:36:16 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 14:27:58 +0530</lastBuildDate>
     <atom:link href="https://github.com/tarunbanyal24ug-max/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection Blog on unit 3</title>
+      <link>https://github.com/tarunbanyal24ug-max/posts/unit3-failure/</link>
+      <pubDate>Sun, 05 Apr 2026 14:27:58 +0530</pubDate>
+      <guid>https://github.com/tarunbanyal24ug-max/posts/unit3-failure/</guid>
+      <description>&lt;p&gt;Unit 3 was entitled &amp;quot; Reflecting on Failure.&amp;quot; It was a bit different from other units in that the knowledge was gained directly through an activity on a Wiki project. Thus, instead of the usual classroom approach, we engaged with a real-world failure case to develop a shared resource. Therefore, the topic was more appealing and engaging. The case study assigned to our group was on the AT&amp;amp;T network outage. This demonstrated how a minor error in software could cause a massive failure in communication systems. It also shows how poor testing leads to significant failure. This again brought home the point that building reliable systems, fixing bugs properly, and designing technology with care should not be taken for granted, especially when a considerable number of people depend on it. Working on this case study, I realized that most technological failures result from several causes: poor assumptions, poor communication, and, as stated earlier, overconfidence. The reading from &amp;quot; Right Kind of Wrong: The Science of Failing Well&amp;quot; taught me many new things and allowed me to understand them better. It discussed how some failures are appropriate and necessary for learning. While this notion was quite attractive, it was hard to accept because failure is typically viewed as negative. I found this unit easier to comprehend because the concept of failure was better put across to me practically. Moreover, the Wiki made learning more fun and easier and changed my perspective on failure.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reflection Blog of first two topics</title>
       <link>https://github.com/tarunbanyal24ug-max/posts/my-first-post/</link>
